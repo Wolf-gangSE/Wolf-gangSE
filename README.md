@@ -40,19 +40,6 @@
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/lucas-henrique-monteiro/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=0E76A8)](https://github.com/Wolf-gangSE)
-
-## Principais projetos
-
-### Desenvolvimento Web
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf-gangSE&repo=scratch-data&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wolf-gangSE/scratch-data)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf-gangSE&repo=Legis-Django&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wolf-gangSE/Legis-Django)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf-gangSE&repo=submeta-upe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wolf-gangSE/submeta-upe)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=netrometro&repo=upe_20202_devflix&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/netrometro/upe_20202_devflix)
-
-### Análise e Ciência de dados
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf-gangSE&repo=diabetes-prediction&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wolf-gangSE/diabetes-prediction)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wolf-gangSE&repo=heart-disease-prediction&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wolf-gangSE/heart-disease-prediction)
 
 ## Status do Git
 
